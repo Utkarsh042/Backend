@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Utkarsh Singh",
+  "license": "ISC",
+  "description": "A backend in the code",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "javascript",
+    "backend",
+    "code"
+  ]
+}
