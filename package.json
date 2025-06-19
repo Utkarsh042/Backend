@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "Utkarsh Singh",
   "license": "ISC",
@@ -12,7 +12,9 @@
   "dependencies": {
     "express": "^5.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
   "keywords": [
     "javascript",
     "backend",
