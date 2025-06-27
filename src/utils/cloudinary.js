@@ -27,7 +27,7 @@ const uploadOnCloudinary = async (localFilePath) => {
     }
 }
 
-export {uploadOnCloudinary}
+export { uploadOnCloudinary }
 
 // cloudinary.v2.uploader.upload("image_url",
 // { public_id: "olympic_flag" },
